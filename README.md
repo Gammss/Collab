@@ -1,6 +1,6 @@
-## The cool collaboration between **Gammss** and **TheRealHenHen**!
+# The cool collaboration between **Gammss** and **TheRealHenHen**!
 
-# Features
+### Features
 
 - Ultra advanced features in every sector of computing!
 - Super easy accessibility between all sectors of human society!
