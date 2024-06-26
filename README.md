@@ -1,4 +1,4 @@
-# The cool collaboration between **Gammss** and **TheRealHenHen**!
+# The Cool Collaboration between **Gammss** and **TheRealHenHen**!
 
 ### Features
 
